@@ -27,6 +27,7 @@ our Git repository. But that's not a hard requirement and we can assist you with
 
 ---
 
-The "rules" of the contest are explained in the Wiki pages - it's very important that
-anybody taking part adheres to them very strictly in order to create a complete chain of
-history for the interpretation.
+The "rules" of the contest are explained in the 
+[Wiki pages](https://github.com/openlilylib/engraving-challenges/wiki) -
+it's very important that anybody taking part adheres to them very strictly in order to create
+a complete chain of history for the interpretation.
