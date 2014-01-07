@@ -52,7 +52,7 @@ of the out-of-the-box output of the different tools.
 Even more important: do *not* apply *any* individual adjustment or tweak
 to improve the output quality, it has to be the plain content that is entered. What is of course accepted (and encouraged) is the correct
 assignment to voices (or layers). Also accepted *(but only if 
-documented)* are "binary" operations like manually switching directions or breaking beams etc.
+documented)* are "on/off" operations like manually switching directions or breaking beams etc.
 
 If your prior analysis has shown that you need specific functionality,
 for example through the use of plugins or functions, to fulfill specific
@@ -106,6 +106,9 @@ This should be interested in errors regarding the content as well as
 engraving shortcomings. Here it is specifically important to commit
 each modification individually as we're very interested in the impact
 such fixes will have on an already beautified score.
+So, if adjusting a dynamic makes a slur move and collide with something else,
+please make a commit in that state and then a separate commit for fixing
+the collision that ensued.
 
 ---
 
