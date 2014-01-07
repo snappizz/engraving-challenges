@@ -61,3 +61,11 @@ When you've decided to participate in our challenges you should check
 out [Git Workflows](git-workflow.md) to see how to set up your system.
 If you have never used Git you still can participate, but with some
 complications and the need for personal assistance.
+
+The [general rules](general-rules.md) are intended as a guideline for
+the order or operation when working on an assignment. It is important
+to adhere to them so we can reliably compare the progress of the different programs.  
+If that structure significantly comes across what is useful with your
+tool then you should take this as an opportunity to discuss the
+differences in workflows. (Of course you won't be forced then to
+use an unusable workflow.)
