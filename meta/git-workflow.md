@@ -16,7 +16,7 @@ Git repository. Feel free to ask for any clarification or details.
    work should be done on feature branches created off the challenge
    branch.   
    If in any doubt ask someone to set up a working branch for you.
-3. **Merging **  
+3. **Merging**  
    We want a clean history that is nevertheless informative about the
    way of progress. Therefore usually branches should be `rebase`d
    before being merged *with merge commit* (through the `--no-ff`
