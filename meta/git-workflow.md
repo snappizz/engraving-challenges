@@ -1,5 +1,10 @@
 #### Git Workflow
 
+This document describes the basic Git procedures for the "openLilyLib Engraving
+Challenges" project.
+
+---
+
 1. **Branches**  
    The `master` branch isn't intended for any work. All concrete work is done in
    feature branches that are merged into `master` only when a challenge or a
