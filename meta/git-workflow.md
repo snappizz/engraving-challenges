@@ -23,7 +23,10 @@ Git repository. Feel free to ask for any clarification or details.
    option.  
    If you don't consider yourself an administrator of this repository
    you should *not* merge branches yourself but rather open a pull
-   request (after having rebased).
+   request (after having rebased).  
+   Once you have completed a coherent step of your assignment
+   you should rebase your working branch against the challenge's
+   base branch and merge or open a pull request.
 4. **Commit strategies**  
    Please commit very often. We're particularly interested in the detailed
    documentation of the progress, therefore we need this information.  
