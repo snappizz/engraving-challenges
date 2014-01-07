@@ -33,7 +33,7 @@ It would be good if you would also have experience with version control
 and can work with our Git repository because you cannot add or update
 binary files through the web interface. But that's not a strict requirement and we can assist you with that.
 
-The "rules" of the contest are explained in the `[meta](meta/README.md)`
+The "rules" of the contest are explained in the [`meta`](meta/README.md)
 folder.
 Each challenge is contained in an individual top-level directory, with
 some specific information in a README.md file that will be displayed automatically when you open that directory.
