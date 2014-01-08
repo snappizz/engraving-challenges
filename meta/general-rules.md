@@ -15,7 +15,8 @@ description of the given challenge.
 For each participating program (or participant) there will be a dedicated
 subdirectory within the challenge directory. Inside this directory you
 can do what you want, adding subdirectories for any tools, include or
-intermediate files or whatever. You are encouraged to add any number of Markdown files (possibly in a subdirectory) to make notes, either for
+intermediate files or whatever. You are encouraged to add any number of
+Markdown files (possibly in a subdirectory) to make notes, either for
 your personal use or for documentation, but in the end you should have one
 README.md file in "your" root directory that serves as the main
 documentation of your attempt.
@@ -77,7 +78,7 @@ about your solutions.
 Once the music is entered and we've seen the default output of your
 program you can adjust the global appearance setting in any way you
 like. You may adjust page layout, staff and font sizes, line thicknesses
-or whatever to improve the general impression. If you want you can now
+or whatever to realize your "house style". If you want you can now
 also decide about line and page breaking.  
 Please do these things in retraceable steps and commit any sensible unit
 of work. If your document files don't "speak for themselves" through
