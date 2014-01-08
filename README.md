@@ -8,7 +8,7 @@ complex notational challenges.
 
 While LilyPond's default output is undisputedly extraordinary readable
 it is still not perfect - the amount of necessary tweaks in said edition
-is a telling witness. So were quite interested in getting a better picture
+is a telling witness. So we're quite interested in getting a better picture
 of how the actual balance is between a relatively small number of
 tweaks and the relative complexity to achieve them.
 
