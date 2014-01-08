@@ -1,7 +1,11 @@
 ## Git Workflow
 
-Here we go with a general outline on how we want you to work with the
-Git repository. Feel free to ask for any clarification or details.
+If you are already proficient with Git you'll find concise information
+about how we want you to work with the Git repository her.
+Feel free to ask for any clarification or details.
+
+If you're new to that you may skip this document and rely on personal
+communication with someone who helps you out.
 
 1. **Accounts**   
    If you don't already have one, get yourself a Github account
