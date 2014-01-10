@@ -26,8 +26,7 @@ nominating someone a winner.
 ---
 
 If you're interested in participating in this adventure feel free to contact us through
-`ul at openlilylib dot org` (or the [lilypond-user]
-(https://lists.gnu.org/mailman/listinfo/lilypond-user) mailing list). You should be confident
+`ul at openlilylib dot org` (or the openlilylib-user mailing list, see below). You should be confident
 to be able to work efficiently with your notation program and have a current version of it.
 It would be good if you would also have experience with version control
 and can work with our Git repository because you cannot add or update
@@ -37,3 +36,19 @@ The "rules" of the contest are explained in the [`meta`](meta)
 folder.
 Each challenge is contained in an individual top-level directory, with
 some specific information in a README.md file that will be displayed automatically when you open that directory.
+
+Communication channels for this project are:
+
+- The openlilylib-user mailing list  
+  Info page with subscription:
+  [https://lists.sourceforge.net/lists/listinfo/openlilylib-user]
+  (https://lists.sourceforge.net/lists/listinfo/openlilylib-user)  
+  Mailing list archives:
+  [http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user]
+  (http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user)  
+  Messages should be prefixed with `[Challenges]`
+- This project's [issue tracker}(https://github.com/openlilylib/engraving-challenges/issues)  
+  for anything appropriate for an issue tracker
+- README.md and other Markdown files in the respective project subdirectories
+- Pull requests as describe [here](https://help.github.com/articles/using-pull-requests)
+- Potentially this project's wiki pages (to be considered)
