@@ -47,7 +47,7 @@ Communication channels for this project are:
   [http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user]
   (http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user)  
   Messages should be prefixed with `[Challenges]`
-- This project's [issue tracker}(https://github.com/openlilylib/engraving-challenges/issues)  
+- This project's [issue tracker](https://github.com/openlilylib/engraving-challenges/issues)  
   for anything appropriate for an issue tracker
 - README.md and other Markdown files in the respective project subdirectories
 - Pull requests as describe [here](https://help.github.com/articles/using-pull-requests)
