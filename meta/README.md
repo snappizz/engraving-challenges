@@ -38,7 +38,7 @@ Let's start with a general
    this project it's not the main goal to nominate a "winner", and it
    doesn't help anybody to play tricks.  
    While the text documents of tools like LilyPond can be easily tracked
-   by Git this isn't the same with binary file formats. A LilyPond input
+   by Git this isn't the same with binary file formats. While a LilyPond input
    file always reveals what is in it (what has been changed, what is
    default output) this isn't the same with other file formats.
    So - if you use programs with binary files - please be honest and
