@@ -51,7 +51,8 @@ that doesn't fit on standard paper). The idea is to get an impression
 of the out-of-the-box output of the different tools.
 
 Even more important: do *not* apply *any* individual adjustment or tweak
-to improve the output quality, it has to be the plain content that is entered. What is of course accepted (and encouraged) is the correct
+to improve the output quality, it has to be the plain content that is entered.
+What is of course accepted (and encouraged) is the correct
 assignment to voices (or layers). Also accepted *(but only if 
 documented)* are "on/off" operations like manually switching directions or breaking beams etc.
 
@@ -91,8 +92,9 @@ individually.
 Now you should make your score perfect. You're allowed to use *any*
 tools your program offers, including third-party plugins, self-written
 functions or established libraries. But anything has to be reproducible
-by others. This means if this requires a commercial plugin to be present
-it has to be documented. If you use functions or self-written tools
+by others. This means if this requires a commercial or free plugin or library
+to be present it has to be documented.
+If you use functions or self-written tools
 that aren't publicly available they have to be somehow accessible
 (for LilyPond you can either place them in the input files themselves,
 in directories reachable from the main file or in a library directory
